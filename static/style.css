@@ -21,6 +21,7 @@ body {
 article {
     max-width: 320px;
     box-sizing: border-box;
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.047);
 }
 
 .qr__code__container {
